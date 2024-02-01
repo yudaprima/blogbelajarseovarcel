@@ -21,7 +21,7 @@ export default defineNuxtConfig({
     strictNuxtContentPaths: true,
   },
   site: {
-    url: "https://belajarseo.varcel.app",
+    url: "blogbelajarseo.vercel.app",
     identity: {
       type: "Person",
     },
