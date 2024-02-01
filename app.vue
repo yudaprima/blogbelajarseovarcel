@@ -7,7 +7,7 @@ const twitterDescription
   = 'My blog website, where I play around with Nuxt, Vue, SEO, and more and showcase my blog, resources, etc'
 const image
   = ''
-const mySite = 'blogbelajarseo.vercel.app'
+const mySite = 'https://blogbelajarseo.vercel.app'
 useHead({
   htmlAttrs: {
     lang: 'idn',
@@ -15,7 +15,7 @@ useHead({
   link: [
     {
       rel: 'canonical',
-      href: `blogbelajarseo.vercel.app`,
+      href: `https://blogbelajarseo.vercel.app`,
     },
   ],
   meta: [
